@@ -1,0 +1,240 @@
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\ApplicationInsights.config
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\KPK_CalcSite.dll.config
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\KPK_CalcSite.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\KPK_CalcSite.pdb
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\csc.exe
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\csc.exe.config
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\csc.rsp
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\csi.exe
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\csi.exe.config
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\csi.rsp
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.AppContext.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Console.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\vbc.exe
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\vbc.exe.config
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\vbc.rsp
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Antlr3.Runtime.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\EntityFramework.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.Web.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Newtonsoft.Json.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Owin.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.Helpers.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.Mvc.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.Optimization.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.Razor.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.WebPages.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\WebGrease.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.Helpers.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.Mvc.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.Optimization.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.Razor.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.WebPages.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Antlr3.Runtime.pdb
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Newtonsoft.Json.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\EntityFramework.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.Web.xml
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\obj\Debug\KPK_CalcSite.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\obj\Debug\KPK_CalcSite.csproj.CopyComplete
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\obj\Debug\KPK_CalcSite.dll
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\obj\Debug\KPK_CalcSite.pdb
+C:\Users\Konrad\Desktop\Nauka C_sharp\KPK_Calcs\KPK_CalcSite\obj\Debug\KPK_CalcSite.csprojAssemblyReference.cache
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\ApplicationInsights.config
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\KPK_CalcSite.dll.config
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\KPK_CalcSite.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\KPK_CalcSite.pdb
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\csc.exe
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\csc.exe.config
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\csc.rsp
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\csi.exe
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\csi.exe.config
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\csi.rsp
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.AppContext.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Console.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\vbc.exe
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\vbc.exe.config
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\vbc.rsp
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Antlr3.Runtime.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\EntityFramework.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.Web.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Newtonsoft.Json.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Owin.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.Helpers.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.Mvc.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.Optimization.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.Razor.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.WebPages.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\WebGrease.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.Helpers.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.Mvc.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.Optimization.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.Razor.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.WebPages.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Antlr3.Runtime.pdb
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Newtonsoft.Json.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\EntityFramework.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\bin\Microsoft.AI.Web.xml
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\obj\Debug\KPK_CalcSite.csprojAssemblyReference.cache
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\obj\Debug\KPK_CalcSite.csproj.CoreCompileInputs.cache
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\obj\Debug\KPK_CalcSite.csproj.CopyComplete
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\obj\Debug\KPK_CalcSite.dll
+C:\Users\Disseminate\Desktop\Studia podyplomowe\Praca końcowa\KPK_Calcs\KPK_CalcSite\obj\Debug\KPK_CalcSite.pdb
